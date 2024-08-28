@@ -1,1 +1,2 @@
 ##iframe
+www.trepy.jp/*##div[class*="delay"] .new_list_bar
