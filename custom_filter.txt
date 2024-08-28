@@ -1,19 +1,22 @@
 www.trepy.jp##div.article_body
-www.trepy.jp##div.article_main_img
+www.trepy.jp##img
+www.trepy.jp##div.image_caption
 www.trepy.jp##div[class*="title_area"]
 www.trepy.jp##div[class*="ad_area"]
 www.trepy.jp##div[class*="delay"] .new_list_bar
 www.trepy.jp##div[class*="delay"] [id*="page_article_area"]
 
 www.life-n.jp##div.article_body
-www.life-n.jp##div.article_main_img
+www.life-n.jp##img
+www.life-n.jp##div.image_caption
 www.life-n.jp##div[class*="title_area"]
 www.life-n.jp##div[class*="ad_area"]
 www.life-n.jp##div[class*="delay"] .new_list_bar
 www.life-n.jp##div[class*="delay"] [id*="page_article_area"]
 
-point-news.jp##div.article_body
-point-news.jp##div.article_main_img
+point-news.jp##p.content_area
+point-news.jp##img
+point-news.jp##div.image_caption
 point-news.jp##div[class*="title_area"]
 point-news.jp##div[class*="ad_area"]
 point-news.jp##div[class*="delay"] .new_list_bar
