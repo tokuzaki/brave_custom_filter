@@ -1,2 +1,4 @@
-##iframe
-www.trepy.jp/*##div[class*="delay"] .new_list_bar
+www.trepy.jp##div.article_body
+www.trepy.jp##div.article_main_img
+www.trepy.jp##div[class*="delay"] .new_list_bar
+www.trepy.jp##div[class*="delay"] [id*="page_article_area"]
